@@ -70,7 +70,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://decideyari.herokuapp.com'
+BASEURL = 'https://egc-1230-migyanari.herokuapp.com'
 
 APIS = {
     'authentication': BASEURL,
