@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/migyanari/EGC-1230-migyanari.svg?branch=master)](https://travis-ci.com/migyanari/decide)
+[![Build Status](https://travis-ci.com/migyanari/EGC-1230-migyanari.svg?branch=master)](https://travis-ci.com/migyanari/EGC-1230-migyanar)
 
 Plataforma voto electrónico educativa
 =====================================
